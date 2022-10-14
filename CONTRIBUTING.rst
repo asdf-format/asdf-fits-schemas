@@ -2,7 +2,7 @@ Reporting Issues
 ----------------
 
 Feature requests and bug reports for the Python implementation can be posted at
-`asdf-unit-schemas's github page <https://github.com/asdf-format/asdf-unit-schemas>`_.
+`asdf-fits-schemas's github page <https://github.com/asdf-format/asdf-fits-schemas>`_.
 
 Contributing Code and Documentation
 -----------------------------------
