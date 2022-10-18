@@ -21,7 +21,7 @@ examples:
   -
     - A simple FITS file with a primary header and two extensions
     - |
-        !fits/fits-1.0.0
+        !<tag:stsci.edu:asdf/fits/fits-1.0.0>
             - header:
               - [SIMPLE, true, conforms to FITS standard]
               - [BITPIX, 8, array data type]
@@ -72,7 +72,6 @@ examples:
               - [EXTNAME, ERR, extension name]
               - [BUNIT, DN, Units of the error array]
 
-tag: "tag:stsci.edu:asdf/fits/fits-1.0.0"
 type: array
 items:
   description: >
